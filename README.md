@@ -6,10 +6,10 @@ O projeto é uma API no modelo REST.
 
 A API é um cadastro de clientes, onde só é possível gerenciar esses clientes se estiver logado na aplicação por meio de um token JWT.
 
-#Versão SpringBoot: 2.6.7
-#Versão do Java: 11
+# Versão SpringBoot: 2.6.7
+# Versão do Java: 11
 
-##Recursos utilizados:
+## Recursos utilizados:
 
 - Autenticação JWT e configurações nas permissões de "Administrador" e "Operador".
 - Criptográfia de senhas.
